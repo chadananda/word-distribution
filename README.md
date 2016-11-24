@@ -21,7 +21,7 @@ Electron application platform for developing word-analysis and leveling modules
 
 ## User Interface
 
-![basic interface](interface_a.png =450x)
+![basic interface](./interface_a.png =450x)
 
 
 
