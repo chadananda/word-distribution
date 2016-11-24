@@ -24,6 +24,22 @@ Electron application platform for developing word-analysis and leveling modules
 ![basic interface](https://github.com/chadananda/word-distribution/blob/master/interface_a.png?raw=true =450x)
 
 
+## Install and Build
+
+```
+git clone git@github.com:chadananda/word-distribution.git
+cd word-distribution
+npm install
+npm start
+
+```
+
+## Download Application
+
+
+
+
+
 
 
 
