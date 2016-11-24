@@ -21,7 +21,7 @@ Electron application platform for developing word-analysis and leveling modules
 
 ## User Interface
 
-![basic interface](./interface_a.png =450x)
+![basic interface](https://github.com/chadananda/word-distribution/blob/master/interface_a.png?raw=true =450x)
 
 
 
